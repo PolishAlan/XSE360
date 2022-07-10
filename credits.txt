@@ -1,0 +1,3 @@
+NuGet Packages:
+Controller input: SharpDX.XInput
+Mouse movement: Input Simulator
